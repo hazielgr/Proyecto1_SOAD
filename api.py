@@ -101,7 +101,7 @@ def get_recommendation_from_chatgpt(place, genre, song):
     try:
         # Configuración de la solicitud a ChatGPT usando la librería openai
         response = openai.Completion.create(
-            model="gpt-4",  # O usa otro modelo disponible como "gpt-3.5-turbo" o "gpt-4"
+            model="text-davinci-003",  # O usa otro modelo disponible como "gpt-3.5-turbo" o "gpt-4"
             prompt=prompt,
             max_tokens=150
         )

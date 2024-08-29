@@ -1,0 +1,50 @@
+{
+    "Rock Bar": [
+        {"genre": "rock", "song": "Bohemian Rhapsody - Queen"},
+        {"genre": "rock", "song": "Stairway to Heaven - Led Zeppelin"}
+    ],
+    "Jazz Club": [
+        {"genre": "jazz", "song": "So What - Miles Davis"},
+        {"genre": "jazz", "song": "Take Five - Dave Brubeck"}
+    ],
+    "Pop Arena": [
+        {"genre": "pop", "song": "Thriller - Michael Jackson"},
+        {"genre": "pop", "song": "Like a Prayer - Madonna"}
+    ],
+    "New York": [
+        {"genre": "hip hop", "song": "Empire State of Mind - Jay-Z"},
+        {"genre": "rock", "song": "New York, New York - Frank Sinatra"}
+    ],
+    "Tokyo": [
+        {"genre": "electronic", "song": "Tokyo Drift - Teriyaki Boyz"},
+        {"genre": "pop", "song": "Heavy Rotation - AKB48"}
+    ],
+    "Paris": [
+        {"genre": "chanson", "song": "La Vie en Rose - Edith Piaf"},
+        {"genre": "electronic", "song": "One More Time - Daft Punk"}
+    ],
+    "The Blue Note": [
+        {"genre": "jazz", "song": "My Favorite Things - John Coltrane"},
+        {"genre": "blues", "song": "The Thrill Is Gone - B.B. King"}
+    ],
+    "Hard Rock Cafe": [
+        {"genre": "rock", "song": "Sweet Child O' Mine - Guns N' Roses"},
+        {"genre": "metal", "song": "Enter Sandman - Metallica"}
+    ],
+    "La Havana": [
+        {"genre": "salsa", "song": "Chan Chan - Buena Vista Social Club"},
+        {"genre": "reggaeton", "song": "Gasolina - Daddy Yankee"}
+    ],
+    "Rio de Janeiro": [
+        {"genre": "samba", "song": "The Girl from Ipanema - João Gilberto"},
+        {"genre": "bossa nova", "song": "Corcovado - Antônio Carlos Jobim"}
+    ],
+    "Berlin": [
+        {"genre": "techno", "song": "Stranger Things - Carl Cox"},
+        {"genre": "electronic", "song": "Oxygene Part IV - Jean-Michel Jarre"}
+    ],
+    "London": [
+        {"genre": "rock", "song": "London Calling - The Clash"},
+        {"genre": "punk", "song": "Anarchy in the U.K. - Sex Pistols"}
+    ]
+}
